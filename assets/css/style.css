@@ -117,7 +117,7 @@ html, body {
   margin: 0 auto;
   width: 230px;
   height: 230px;
-  background-color: #196fc2;
+  background-color: white;
   border: 0;
   transform: translate(-50%, -50%) rotate(45deg);
   -webkit-transform: translate(-50%, -50%) rotate(45deg);
@@ -127,7 +127,8 @@ html, body {
   -webkit-box-shadow: 10px 10px 0px 0px #dddddd;
   -o-box-shadow: 10px 10px 0px 0px #dddddd;
   -moz-box-shadow: 10px 10px 0px 0px #dddddd;
-  box-shadow: 10px 10px 0px 0px #dddddd;
+  box-shadow: 0px 0px 30px 45px #dddddd;
+  border-radius: 10px;
 }
 
 .medium-rectangle {
